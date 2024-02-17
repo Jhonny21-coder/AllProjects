@@ -1,0 +1,12 @@
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/web/dto/UserRegistrationDto.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/web/UserRegistrationController.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/repository/UserRepository.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/service/UserServiceImpl.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/service/UserService.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/constarint/FieldMatch.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/model/Role.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/constarint/FieldMatchValidator.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/model/User.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/config/SecurityConfiguration.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/RegistrationApplication.java
+/data/data/com.termux/files/home/SpringRegistrationPage/src/main/java/aspera/registration/web/MainController.java

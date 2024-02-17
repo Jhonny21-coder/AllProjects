@@ -1,0 +1,13 @@
+aspera/registration/constarint/FieldMatch$List.class
+aspera/registration/constarint/FieldMatch.class
+aspera/registration/model/Role.class
+aspera/registration/repository/UserRepository.class
+aspera/registration/service/UserService.class
+aspera/registration/web/UserRegistrationController.class
+aspera/registration/service/UserServiceImpl.class
+aspera/registration/web/dto/UserRegistrationDto.class
+aspera/registration/constarint/FieldMatchValidator.class
+aspera/registration/model/User.class
+aspera/registration/RegistrationApplication.class
+aspera/registration/web/MainController.class
+aspera/registration/config/SecurityConfiguration.class
